@@ -1,0 +1,9 @@
+/Users/jmperezsantos/Projects/CollectionsExample/CollectionsExample/bin/iPhoneSimulator/Debug/CollectionsExample.exe
+/Users/jmperezsantos/Projects/CollectionsExample/CollectionsExample/bin/iPhoneSimulator/Debug/CollectionsExample.pdb
+/Users/jmperezsantos/Projects/CollectionsExample/CollectionsExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/jmperezsantos/Projects/CollectionsExample/CollectionsExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/actool/_PartialAppManifest.items
+/Users/jmperezsantos/Projects/CollectionsExample/CollectionsExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/jmperezsantos/Projects/CollectionsExample/CollectionsExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/optimized/
+/Users/jmperezsantos/Projects/CollectionsExample/CollectionsExample/obj/iPhoneSimulator/Debug/CollectionsExample.csproj.CoreCompileInputs.cache
+/Users/jmperezsantos/Projects/CollectionsExample/CollectionsExample/obj/iPhoneSimulator/Debug/CollectionsExample.exe
+/Users/jmperezsantos/Projects/CollectionsExample/CollectionsExample/obj/iPhoneSimulator/Debug/CollectionsExample.pdb

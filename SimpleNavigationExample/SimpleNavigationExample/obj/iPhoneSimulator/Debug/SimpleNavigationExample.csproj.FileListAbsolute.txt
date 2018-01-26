@@ -1,0 +1,9 @@
+/Users/jmperezsantos/Projects/SimpleNavigationExample/SimpleNavigationExample/bin/iPhoneSimulator/Debug/SimpleNavigationExample.exe
+/Users/jmperezsantos/Projects/SimpleNavigationExample/SimpleNavigationExample/bin/iPhoneSimulator/Debug/SimpleNavigationExample.pdb
+/Users/jmperezsantos/Projects/SimpleNavigationExample/SimpleNavigationExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/jmperezsantos/Projects/SimpleNavigationExample/SimpleNavigationExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/actool/_PartialAppManifest.items
+/Users/jmperezsantos/Projects/SimpleNavigationExample/SimpleNavigationExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/jmperezsantos/Projects/SimpleNavigationExample/SimpleNavigationExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/optimized/
+/Users/jmperezsantos/Projects/SimpleNavigationExample/SimpleNavigationExample/obj/iPhoneSimulator/Debug/SimpleNavigationExample.csproj.CoreCompileInputs.cache
+/Users/jmperezsantos/Projects/SimpleNavigationExample/SimpleNavigationExample/obj/iPhoneSimulator/Debug/SimpleNavigationExample.exe
+/Users/jmperezsantos/Projects/SimpleNavigationExample/SimpleNavigationExample/obj/iPhoneSimulator/Debug/SimpleNavigationExample.pdb

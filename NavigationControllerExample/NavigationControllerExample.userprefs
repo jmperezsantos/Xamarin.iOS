@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B3002606-BE36-4BB7-9046-897BC75321D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NavigationControllerExample/MoradoViewController.cs">
+    <Files>
+      <File FileName="NavigationControllerExample/ViewController.cs" Line="34" Column="13" />
+      <File FileName="NavigationControllerExample/Main.storyboard" />
+      <File FileName="NavigationControllerExample/MoradoViewController.cs" Line="10" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NavigationControllerExample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D49EE26F-ACA6-4B0C-9A7C-CD7D87431B4E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.NavigationControllerExample>
+  <MultiItemStartupConfigurations />
+</Properties>

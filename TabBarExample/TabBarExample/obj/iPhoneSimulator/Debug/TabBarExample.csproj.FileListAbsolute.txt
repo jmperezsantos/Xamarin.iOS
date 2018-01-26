@@ -1,0 +1,9 @@
+/Users/jmperezsantos/Projects/TabBarExample/TabBarExample/bin/iPhoneSimulator/Debug/TabBarExample.exe
+/Users/jmperezsantos/Projects/TabBarExample/TabBarExample/bin/iPhoneSimulator/Debug/TabBarExample.pdb
+/Users/jmperezsantos/Projects/TabBarExample/TabBarExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/jmperezsantos/Projects/TabBarExample/TabBarExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/actool/_PartialAppManifest.items
+/Users/jmperezsantos/Projects/TabBarExample/TabBarExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/jmperezsantos/Projects/TabBarExample/TabBarExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/optimized/
+/Users/jmperezsantos/Projects/TabBarExample/TabBarExample/obj/iPhoneSimulator/Debug/TabBarExample.csproj.CoreCompileInputs.cache
+/Users/jmperezsantos/Projects/TabBarExample/TabBarExample/obj/iPhoneSimulator/Debug/TabBarExample.exe
+/Users/jmperezsantos/Projects/TabBarExample/TabBarExample/obj/iPhoneSimulator/Debug/TabBarExample.pdb

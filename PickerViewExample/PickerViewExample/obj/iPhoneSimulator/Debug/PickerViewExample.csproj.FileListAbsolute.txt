@@ -1,0 +1,9 @@
+/Users/jmperezsantos/Projects/PickerViewExample/PickerViewExample/bin/iPhoneSimulator/Debug/PickerViewExample.exe
+/Users/jmperezsantos/Projects/PickerViewExample/PickerViewExample/bin/iPhoneSimulator/Debug/PickerViewExample.pdb
+/Users/jmperezsantos/Projects/PickerViewExample/PickerViewExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/jmperezsantos/Projects/PickerViewExample/PickerViewExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/actool/_PartialAppManifest.items
+/Users/jmperezsantos/Projects/PickerViewExample/PickerViewExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/jmperezsantos/Projects/PickerViewExample/PickerViewExample/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/optimized/
+/Users/jmperezsantos/Projects/PickerViewExample/PickerViewExample/obj/iPhoneSimulator/Debug/PickerViewExample.csproj.CoreCompileInputs.cache
+/Users/jmperezsantos/Projects/PickerViewExample/PickerViewExample/obj/iPhoneSimulator/Debug/PickerViewExample.exe
+/Users/jmperezsantos/Projects/PickerViewExample/PickerViewExample/obj/iPhoneSimulator/Debug/PickerViewExample.pdb

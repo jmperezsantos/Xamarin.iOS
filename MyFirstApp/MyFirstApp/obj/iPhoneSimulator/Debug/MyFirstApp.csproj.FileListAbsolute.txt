@@ -1,0 +1,9 @@
+/Users/jmperezsantos/Projects/MyFirstApp/MyFirstApp/bin/iPhoneSimulator/Debug/MyFirstApp.exe
+/Users/jmperezsantos/Projects/MyFirstApp/MyFirstApp/bin/iPhoneSimulator/Debug/MyFirstApp.pdb
+/Users/jmperezsantos/Projects/MyFirstApp/MyFirstApp/obj/iPhoneSimulator/Debug/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/jmperezsantos/Projects/MyFirstApp/MyFirstApp/obj/iPhoneSimulator/Debug/MyFirstApp.exe
+/Users/jmperezsantos/Projects/MyFirstApp/MyFirstApp/obj/iPhoneSimulator/Debug/MyFirstApp.pdb
+/Users/jmperezsantos/Projects/MyFirstApp/MyFirstApp/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/jmperezsantos/Projects/MyFirstApp/MyFirstApp/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/actool/_PartialAppManifest.items
+/Users/jmperezsantos/Projects/MyFirstApp/MyFirstApp/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/jmperezsantos/Projects/MyFirstApp/MyFirstApp/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/optimized/
